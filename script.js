@@ -1,6 +1,6 @@
 // Données adaptées au projet LOGEBOX ETUDIANT
 const questions = [
-  "1. Pourquoi le projet s'appelle-t-il 'LOGEBOX ÉTUDIANT' ?",
+  "1. Pourquoi le projet s'appelle-t-il LOGEBOX ÉTUDIANT ?",
   "2. Que contient ce document SysML ? (cliquez ici pour voir le document)",
   "3. Quel est l'objectif du projet LOGEBOX ?",
   '4. Pourquoi a-t-on besoin de ce projet ?',
