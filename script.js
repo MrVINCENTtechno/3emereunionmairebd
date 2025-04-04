@@ -1,15 +1,16 @@
 // Données adaptées au projet LOGEBOX ETUDIANT
 const questions = [
   "1. Pourquoi le projet s'appelle-t-il 'LOGEBOX ÉTUDIANT' ?",
-  "1. Quel est l'objectif du projet LOGEBOX ?",
-  '2. Pourquoi a-t-on besoin de ce projet ?',
-  "3. Qu'est-ce qu'on doit aménager exactement ?",
-  '4. Quelles pièces doit contenir le container ?',
-  '5. Quelles sont les règles importantes à respecter ?',
-  '6. Combien de conteneurs va-t-on aménager ?',
-  "7. Qu'est-ce qu'on doit prévoir pour le confort ?",
-  "8. Comment doit être l'isolation du container ?",
-  '9. Où doit être située la résidence étudiante ?',
+  "2. Que contient ce document SysML ? (cliquez ici pour voir le document)",
+  "3. Quel est l'objectif du projet LOGEBOX ?",
+  '4. Pourquoi a-t-on besoin de ce projet ?',
+  "5. Qu'est-ce qu'on doit aménager exactement ?",
+  '6. Quelles pièces doit contenir le container ?',
+  '7. Quelles sont les règles importantes à respecter ?',
+  '8. Combien de conteneurs va-t-on aménager ?',
+  "9. Qu'est-ce qu'on doit prévoir pour le confort ?",
+  "10. Comment doit être l'isolation du container ?",
+  '11. Où doit être située la résidence étudiante ?',
 ];
 
 const answers = [
@@ -18,6 +19,14 @@ const answers = [
     "🔹 <b>BOX</b> comme la BOÎTE - car c'est aménagé dans un container<br>" +
     "🔹 <b>ÉTUDIANT</b> - parce que c'est fait spécialement pour les étudiants !<br><br>" +
     "C'est court, facile à retenir et ça décrit bien le projet !",
+    `<b>Document SysML - Synthèse graphique du projet</b><br><br>
+    Ce document contient des diagrammes qui résument visuellement :<br><br>
+    🔹 <b>Toutes les exigences</b> du projet (isolation, dimensions, pièces...)<br>
+    🔹 <b>Les besoins fonctionnels</b> (éclairage, chauffage, proximité...)<br>
+    🔹 <b>Les contraintes techniques</b> (normes RT2020, taille des ouvertures...)<br><br>
+    <a href="https://drive.google.com/file/d/1H8L2Md3DutzZdjERV4rWNRqW0NjvoP-C/view?pli=1" target="_blank" style="color: #0066cc; text-decoration: underline;">
+    📄 Voir le document complet ici</a><br><br>
+    C'est notre "carte au trésor" pour ne rien oublier !`,
   'Construire des logements pas chers, rapides et faciles à bâtir pour les étudiants.',
   "Parce qu'il n'y a pas assez de logements pour les étudiants, les loyers sont trop chers et les logements trop petits ou trop loin des universités.",
   'Un container maritime de dimensions :<br>- Extérieur: 12,19m x 2,43m x 2,59m<br>- Intérieur: 12,03m x 2,35m x 2,39m',
